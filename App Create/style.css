@@ -1,0 +1,17 @@
+body {
+    font-family: "Google Sans";
+    font-size: 20px;
+    text-align: center;
+    background-image: radial-gradient(lightgreen, lightblue)
+}
+
+div {
+    text-align: left;
+    border: 3px black solid;
+}
+
+#tb1 {
+    font-family: "Google Sans";
+    font-size: 20px;
+    width: 550px;
+}
